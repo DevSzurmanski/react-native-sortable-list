@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/gitim/react-native-sortable-list",
   "dependencies": {
+    "lodash": "^4.17.10",
     "prop-types": "^15.5.10"
   }
 }
